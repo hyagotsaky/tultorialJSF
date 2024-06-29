@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tutorialjsfmaven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tutorialjsfmaven-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tutorialjsfmaven:war exploded" />
+    </root>
+  </artifact>
+</component>
